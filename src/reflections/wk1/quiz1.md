@@ -3,13 +3,13 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+cd is what you would use to change directory. you can use this to change what file your command line is in.
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+mkdir stands for make directory. you would use it to make a new directory (file) in whatever root file your command line is already in. 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -21,13 +21,13 @@
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hyper text markup language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheet
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
