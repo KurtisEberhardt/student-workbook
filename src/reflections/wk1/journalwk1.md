@@ -18,3 +18,11 @@ Day 2:
 
     3. What problems do you think you could run into if you over-utilized the !important feature?
         I think one of the issues you could run into is that if everything is listed as !important then nothing becomes important or they all fight constantly over dominance and it could cause a lot of specificity issues in your code.
+Day 3: 
+    1. What is your favorite tip that you think is the most beneficial to improving your design?
+        I think the best tip in the resource is the section on adding highlights. I don't think a lot of people realize how much highlighting adds to anything.
+    2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
+        I always look for good color palette websites as apposed to just color pickers because it gives you a full palette to work with. I like to use coolors.co mostly. There are other good ones out there though. 
+
+    3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
+        I think what I said in the first question can be applied more broadly to thsi one. I really don't think people appreciate what art and design brings to everyday life. So when I hear people complain that art is useless or whatever, it makes me feel kind of bad for them because they clearly just don't understand.
