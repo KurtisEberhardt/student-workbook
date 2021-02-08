@@ -15,6 +15,7 @@ mkdir stands for make directory. you would use it to make a new directory (file)
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
+<html> is the root tag for html where everything else in the document will sit. 
 
 ```
 
@@ -38,12 +39,15 @@ cascading style sheet
 ```
 <!-- enter you answer in the space below -->
 ```
-
+h1.main-title = selector
+color = property
+rgba() = value 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
+you would add a <b></b> around the text you would want to make bold 
 
 ```
 
@@ -56,13 +60,14 @@ cascading style sheet
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
+ul, ol, and ??
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+the display: flex; property would make it so the element you are attaching it to adjusts in size to the viewport you're using. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
