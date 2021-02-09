@@ -26,3 +26,13 @@ Day 3:
 
     3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
         I think what I said in the first question can be applied more broadly to thsi one. I really don't think people appreciate what art and design brings to everyday life. So when I hear people complain that art is useless or whatever, it makes me feel kind of bad for them because they clearly just don't understand.
+Day 4:
+    1.What is the purpose of wire-framing?
+        Wireframing is meant to break down what your website needs into smaller pieces. This way, when you go to build your website you don't get bogged down in the decision making of what it should look like or what the website should do. 
+
+    2.What are the different levels of detail in wire-frames and why is each one useful?
+        The different kinds of wire-framing are low-fidelity, mid-fidelity, and high-fidelity. LF is useful for quick ideas and general placement, and high fidelity is useful for very accurate and very clear near-finished level of visaul development. Mid-fidelity would act as a middle point between the two.
+
+    3.Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
+        Wireframing is a lot like doing thumbnail sketching for art, in my opinion, which ultimately is required for higher complexity illustrations or for figuring out your ideas. I don't see why you wouldn't at least do a basic low-fidelity wireframing if you have the time. 
+
