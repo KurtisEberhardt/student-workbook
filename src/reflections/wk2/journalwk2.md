@@ -25,5 +25,13 @@ day two:
 3. What are higher order functions? Can you provide an example?
     A higher order function is a function that takes an arguement or returns a function itself. 
     function abc(xyz){
-        function dgf(lmo)
+        dgf()
     }
+day three: 
+1. What are the main ways to write information to the console? Why/when should you use each style.
+    
+2. Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML? 
+    The Elements tab can access the CSS and HTML from the console. This can be useful to adjust CSS classes live to see what they look like and you can click directly on elements to bring yourself to the code.
+
+3. Outside of writing everything to the console, what is a better way to debug your code?
+    A better way of debugging your code would be adding a debugger; into your code right before what you're having issues with. This allows you to have greater control over your debugging process. 
