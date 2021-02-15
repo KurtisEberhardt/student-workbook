@@ -35,3 +35,9 @@ day three:
 
 3. Outside of writing everything to the console, what is a better way to debug your code?
     A better way of debugging your code would be adding a debugger; into your code right before what you're having issues with. This allows you to have greater control over your debugging process. 
+day four: 
+1. What are the benefits of making a plan before starting to just write the code?
+
+2. How do you find answers when you are stuck?
+
+3. From the entire article what are your biggest takeaways?
