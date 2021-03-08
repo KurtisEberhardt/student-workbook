@@ -36,3 +36,8 @@ Day 4:
     You would use a virtual property in order to write reusable code that you could use in multiple places. 
 3. How do you search by a virtual properties value?
     You actually can't search by a virtual properties value. 
+
+ Afternoon Projects: 
+https://github.com/KurtisEberhardt/day18afternoon
+https://github.com/KurtisEberhardt/day19afternoon
+did not do wednesday's afternoon project. was helping alex. 
